@@ -8,4 +8,3 @@ Skills:
  - Electronic circuit design
  - Real-time system control
  - Debugging and troubleshooting
- - Safety system implementation
