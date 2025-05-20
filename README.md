@@ -8,5 +8,5 @@ Skills:
  - Electronic circuit design
  - Real-time system control
  - Debugging and troubleshooting
- - 
+
 ![safesizzle final prototype](https://github.com/user-attachments/assets/7cf624f0-f8a9-49d3-a5a6-f595ed823b9d)
